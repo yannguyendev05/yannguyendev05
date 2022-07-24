@@ -107,16 +107,12 @@
 <a href="https://www.facebook.com/YanNguyenDev.Official/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hridoy.the.hazard10" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_tng.dng/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hridoyalhazard" height="30" width="40" /></a>
 <a href="https://github.com/yannguyendev05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="HridoyHazard" height="30" width="40" /></a>
-
-<br>
-
+---
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 ---
 ## 📊GitHub Stats
-<p>
-    <img align="cennter" src="https://github-readme-stats.vercel.app/api?username=yannguyendev05&show_icons=true&theme=dark&locale=en" alt="yannguyendev05"/>
-</p>
+<img align="cennter" src="https://github-readme-stats.vercel.app/api?username=yannguyendev05&show_icons=true&theme=dark&locale=en" alt="yannguyendev05"/>
   
 ![](https://komarev.com/ghpvc/?username=yannguyendev05&label=Visitors+Count&color=brightgreen)
 </div>
