@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/HIGHRES_CTA_ANIMATED_TRANSPARENT_900x440.gif" href="https://yansoftware.vn/">
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/HIGHRES_CTA_ANIMATED_TRANSPARENT_900x440.gif">
 </p>
 <h3 align="center">
   Welcome to Yan Nguyen's profile!
