@@ -103,7 +103,6 @@
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yannguyendev05&theme=discord&no-frame=false&no-bg=false&margin-w=4)
-
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 <a href="https://www.facebook.com/YanNguyenDev.Official/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hridoy.the.hazard10" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_tng.dng/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hridoyalhazard" height="30" width="40" /></a>
@@ -113,11 +112,11 @@
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
 ---
-![](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
-![](http://ForTheBadge.com/images/badges/built-by-developers.svg)
-![](https://forthebadge.com/images/badges/uses-brains.svg)
----
+## 📊GitHub Stats
+<p>
+    <img align="cennter" src="https://github-readme-stats.vercel.app/api?username=yannguyendev05&show_icons=true&theme=dark&locale=en" alt="yannguyendev05"/>
+</p>
+  
 ![](https://komarev.com/ghpvc/?username=yannguyendev05&label=Visitors+Count&color=brightgreen)
 </div>
